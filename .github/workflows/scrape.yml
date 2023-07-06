@@ -1,0 +1,39 @@
+name: Scrape status of water outages
+
+on:
+  push:
+  workflow_dispatch:
+  schedule:
+  - cron:  '1 2 * * *'
+
+permissions:
+  contents: write
+
+jobs:
+  ai-scraper:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v3
+      with:
+        fetch-depth: 0
+
+    - name: Set up Python 3.10
+      uses: actions/setup-python@v4
+      with:
+        python-version: "3.10"
+        cache: "pip"
+
+    - name: Scrape
+      run: |
+        export FILEPATH="openai/models.txt"
+        curl https://api.openai.com/v1/models -H "Authorization: Bearer $OPENAI_API_KEY" | jq -r '.data | .[] | .root' | sort -n > ${FILEPATH}
+
+    - name: Commit and push
+      run: |-
+        git config user.name "Automated"
+        git config user.email "actions@users.noreply.github.com"
+        git add -A
+        timestamp=$(date -u)
+        git commit -m "${timestamp}" || exit 0
+        git pull --rebase
+        git push
