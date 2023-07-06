@@ -25,7 +25,7 @@ jobs:
     - name: Scrape
       run: |
         export FILEPATH="openai/models.txt"
-        curl https://api.openai.com/v1/models -H "Authorization: Bearer $OPENAI_API_KEY" | jq -r '.data | .[] | .root' | sort -n > ${FILEPATH}
+        curl https://api.openai.com/v1/models -H "Authorization: Bearer ${{ secrets.OPENAI_API_KEY }}" | jq -r '.data | .[] | .root' | sort -n > ${FILEPATH}
 
     - name: Commit and push
       run: |-
