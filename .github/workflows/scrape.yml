@@ -1,4 +1,4 @@
-name: Scrape status of water outages
+name: Scrape AI data
 
 on:
   push:
