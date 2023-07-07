@@ -1,4 +1,4 @@
-name: Scrape AI data
+name: Scrape OpenAI data
 
 on:
   push:
