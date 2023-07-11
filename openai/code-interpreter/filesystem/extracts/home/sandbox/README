@@ -1,0 +1,4 @@
+Thanks for using the code interpreter plugin!
+
+Please note that we allocate a sandboxed Unix OS just for you, so it's expected that you can see
+and modify files on this system.
