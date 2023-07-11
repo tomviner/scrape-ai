@@ -1,6 +1,6 @@
 # Code interpreter filesystem
 
-See [listings.txt](listings.txt) for a full list of files (with UUIDs normalised).
+See [listing.txt](listing.txt) for a full list of files (with UUIDs normalised).
 
 The [extracts](extracts) folder contains files directly from code interpreter.
 If you're wondering whether this investigation is _allowed_, I especially enjoyed reading [~/README](extracts/home/sandbox/README):
