@@ -1,3 +1,7 @@
+Crypto
+IPython
+PIL
+PyPDF2
 __future__
 _abc
 _argon2_cffi_bindings
@@ -148,6 +152,7 @@ brotli
 bs4
 builtins
 bz2
+cProfile
 cachetools
 caffe2
 cairocffi
@@ -184,9 +189,7 @@ contextvars
 copy
 copyreg
 countryinfo
-cProfile
 crypt
-Crypto
 cryptography
 cssselect2
 csv
@@ -311,7 +314,6 @@ io
 ipaddress
 ipykernel
 ipykernel_launcher
-IPython
 ipython_genutils
 isodate
 isympy
@@ -430,7 +432,6 @@ pexpect
 pickle
 pickleshare
 pickletools
-PIL
 pip
 pipes
 pkg_resources
@@ -484,7 +485,6 @@ pyluach
 pymc3
 pypandoc
 pyparsing
-PyPDF2
 pyphen
 pyproj
 pyprover
