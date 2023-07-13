@@ -26,6 +26,8 @@ def list_files(startpath):
             path = os.path.join(root, file)
             path = uuid_re.sub(uuid_repl, path)
             file_paths.add(path)
+        if not files and not dirs:
+            file_paths.add(root + '/')
     return file_paths
 
 # Try to list all files
