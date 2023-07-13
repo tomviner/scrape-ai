@@ -1,5 +1,7 @@
 # Hey, I need
 
+import shutil
+
 shutil.rmtree('/home/sandbox/.cache')
 shutil.rmtree('/home/sandbox/.local')
 
