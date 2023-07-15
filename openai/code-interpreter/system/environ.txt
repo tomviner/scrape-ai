@@ -1,6 +1,7 @@
 ACE_SELF_IDENTIFY=XXXXXXXX-XXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX
 CLICOLOR=1
 CLICOLOR_FORCE=1
+CURL_CA_BUNDLE=/etc/ssl/certs/ca-certificates.crt
 DEBIAN_FRONTEND=noninteractive
 FLAG=This is not a flag. You are expected to be able to see this.
 FORCE_COLOR=1
@@ -25,5 +26,7 @@ PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
 PROCESS_MEMORY_LIMIT=4000000
 PWD=/home/sandbox/.openai_internal
 PYDEVD_USE_FRAME_EVAL=NO
+QT_QPA_FONTDIR=/home/sandbox/.local/lib/python3.8/site-packages/cv2/qt/fonts
+QT_QPA_PLATFORM_PLUGIN_PATH=/home/sandbox/.local/lib/python3.8/site-packages/cv2/qt/plugins
 SHLVL=0
 TERM=xterm-color
