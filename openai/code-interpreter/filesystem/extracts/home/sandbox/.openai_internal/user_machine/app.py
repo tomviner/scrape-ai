@@ -231,6 +231,11 @@ async def check_startup():
     return JSONResponse(content={"status": "started"})
 
 
+@app.get("/self_identify")
+async def self_identify():
+    return PlainTextResponse("")
+
+
 @app.post("/upload")
 async def upload(upload_request: str = Form(), file: UploadFile = File()):
     logger.info("Upload request")
