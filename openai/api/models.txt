@@ -21,6 +21,7 @@ curie-instruct-beta
 curie-search-document
 curie-search-query
 curie-similarity
+dall-e-2
 davinci
 davinci-002
 davinci-instruct-beta
