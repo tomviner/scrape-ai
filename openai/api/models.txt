@@ -12,6 +12,7 @@ babbage-search-document
 babbage-search-query
 babbage-similarity
 canary-tts
+canary-whisper
 code-davinci-edit-001
 code-search-ada-code-001
 code-search-ada-text-001
