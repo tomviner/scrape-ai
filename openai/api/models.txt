@@ -4,7 +4,6 @@ ada-code-search-text
 ada-search-document
 ada-search-query
 ada-similarity
-babbage
 babbage-002
 babbage-code-search-code
 babbage-code-search-text
@@ -14,10 +13,8 @@ babbage-similarity
 curie
 curie-search-document
 curie-search-query
-curie-similarity
 dall-e-2
 dall-e-3
-davinci
 davinci-002
 davinci-search-document
 davinci-search-query
