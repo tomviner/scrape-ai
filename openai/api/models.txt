@@ -1,16 +1,10 @@
-ada
 ada-code-search-code
 ada-code-search-text
 ada-search-document
 ada-search-query
-ada-similarity
 babbage-002
-babbage-code-search-code
-babbage-code-search-text
 babbage-search-document
 babbage-search-query
-babbage-similarity
-curie
 curie-search-document
 curie-search-query
 dall-e-2
@@ -18,7 +12,6 @@ dall-e-3
 davinci-002
 davinci-search-document
 davinci-search-query
-davinci-similarity
 gpt-3.5-turbo
 gpt-3.5-turbo-0301
 gpt-3.5-turbo-0613
