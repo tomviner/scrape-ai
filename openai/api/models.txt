@@ -1,17 +1,7 @@
-ada-code-search-code
-ada-code-search-text
-ada-search-document
-ada-search-query
 babbage-002
-babbage-search-document
-babbage-search-query
-curie-search-document
-curie-search-query
 dall-e-2
 dall-e-3
 davinci-002
-davinci-search-document
-davinci-search-query
 gpt-3.5-turbo
 gpt-3.5-turbo-0301
 gpt-3.5-turbo-0613
