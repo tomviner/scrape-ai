@@ -1,4 +1,5 @@
 babbage-002
+chatgpt-4o-latest
 dall-e-2
 dall-e-3
 davinci-002
