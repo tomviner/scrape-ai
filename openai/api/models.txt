@@ -47,6 +47,7 @@ gpt-4o-realtime-preview-2024-12-17
 gpt-4o-search-preview
 gpt-4o-search-preview-2025-03-11
 gpt-4o-transcribe
+gpt-image-1
 o1
 o1-2024-12-17
 o1-mini
