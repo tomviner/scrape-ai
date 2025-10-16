@@ -48,6 +48,7 @@ gpt-4o-realtime-preview-2025-06-03
 gpt-4o-search-preview
 gpt-4o-search-preview-2025-03-11
 gpt-4o-transcribe
+gpt-4o-transcribe-diarize
 gpt-5
 gpt-5-2025-08-07
 gpt-5-chat-latest
