@@ -65,6 +65,11 @@ gpt-5.1-chat-latest
 gpt-5.1-codex
 gpt-5.1-codex-max
 gpt-5.1-codex-mini
+gpt-5.2
+gpt-5.2-2025-12-11
+gpt-5.2-chat-latest
+gpt-5.2-pro
+gpt-5.2-pro-2025-12-11
 gpt-audio
 gpt-audio-2025-08-28
 gpt-audio-mini
