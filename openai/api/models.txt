@@ -39,7 +39,11 @@ gpt-4o-mini-realtime-preview-2024-12-17
 gpt-4o-mini-search-preview
 gpt-4o-mini-search-preview-2025-03-11
 gpt-4o-mini-transcribe
+gpt-4o-mini-transcribe-2025-03-20
+gpt-4o-mini-transcribe-2025-12-15
 gpt-4o-mini-tts
+gpt-4o-mini-tts-2025-03-20
+gpt-4o-mini-tts-2025-12-15
 gpt-4o-realtime-preview
 gpt-4o-realtime-preview-2024-12-17
 gpt-4o-realtime-preview-2025-06-03
@@ -74,12 +78,14 @@ gpt-audio
 gpt-audio-2025-08-28
 gpt-audio-mini
 gpt-audio-mini-2025-10-06
+gpt-audio-mini-2025-12-15
 gpt-image-1
 gpt-image-1-mini
 gpt-realtime
 gpt-realtime-2025-08-28
 gpt-realtime-mini
 gpt-realtime-mini-2025-10-06
+gpt-realtime-mini-2025-12-15
 o1
 o1-2024-12-17
 o1-pro
