@@ -1,5 +1,6 @@
 babbage-002
 chatgpt-4o-latest
+chatgpt-image-latest
 codex-mini-latest
 dall-e-2
 dall-e-3
@@ -81,6 +82,7 @@ gpt-audio-mini-2025-10-06
 gpt-audio-mini-2025-12-15
 gpt-image-1
 gpt-image-1-mini
+gpt-image-1.5
 gpt-realtime
 gpt-realtime-2025-08-28
 gpt-realtime-mini
