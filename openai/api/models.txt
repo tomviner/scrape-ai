@@ -1,5 +1,4 @@
 babbage-002
-chatgpt-4o-latest
 chatgpt-image-latest
 dall-e-2
 dall-e-3
