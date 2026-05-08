@@ -99,10 +99,13 @@ gpt-image-2
 gpt-image-2-2026-04-21
 gpt-realtime
 gpt-realtime-1.5
+gpt-realtime-2
 gpt-realtime-2025-08-28
 gpt-realtime-mini
 gpt-realtime-mini-2025-10-06
 gpt-realtime-mini-2025-12-15
+gpt-realtime-translate
+gpt-realtime-whisper
 o1
 o1-2024-12-17
 o1-pro
