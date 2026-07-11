@@ -74,6 +74,9 @@ gpt-5.5
 gpt-5.5-2026-04-23
 gpt-5.5-pro
 gpt-5.5-pro-2026-04-23
+gpt-5.6-luna
+gpt-5.6-sol
+gpt-5.6-terra
 gpt-audio
 gpt-audio-1.5
 gpt-audio-2025-08-28
