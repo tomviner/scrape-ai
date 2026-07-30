@@ -115,6 +115,7 @@ o4-mini-deep-research
 o4-mini-deep-research-2025-06-26
 omni-moderation-2024-09-26
 omni-moderation-latest
+ra-gpt-5.6-sol
 sora-2
 sora-2-pro
 text-embedding-3-large
